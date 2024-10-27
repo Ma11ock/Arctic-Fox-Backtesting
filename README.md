@@ -1,4 +1,4 @@
-<h1> [TODO: name project] </h1>
+<h1> Arctic Fox Indicators & Backtesting </h1>
 
 <h2> Purpose: </h2>
 <p>The intention of this website and any services offered therein are solely for the purpose of "training" (instructing, teaching, coaching) investors to empower them to be the best traders/investors they can be, and not for the purpose of taking control of their trading/investing in selling advice and bad habits. As with anything that I do, 20% of proceeds will be dedicated to charity at the end of each year.</p> 
