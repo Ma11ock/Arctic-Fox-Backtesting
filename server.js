@@ -38,7 +38,7 @@ app.get('/indicators', (req,res,next)=>{
   res.status(200).render('indexIndicators');
 });
 app.get('/links', (req,res,next)=>{
-  res.status(200).render('bookSales');
+  res.status(200).render('linksOut');
 });
 /*app.get('//:art', (req,res,next)=>{
   let art = req.params.art.toLowerCase();
